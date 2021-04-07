@@ -1,0 +1,27 @@
+{
+    "url": "https://x.im3x.cn",
+    "logo": "https://im3x.cn/images/logo.png",
+    "title": "小件件",
+    "content": "精美实用的 iPhone 桌面小组件！",
+    "data": [
+    {
+        "title": "如何安装小组件",
+        "url": "https://support.qq.com/products/287371/faqs/81416"
+    }, {
+        "title": "小组件如何显示不同的内容",
+        "url": "https://support.qq.com/products/287371/faqs/81450"
+    }, {
+        "title": "小组件设置透明背景",
+        "url": "https://x.im3x.cn"
+    }, {
+        "title": "电脑上远程开发调试小组件",
+        "url": "https://x.im3x.cn"
+    }, {
+        "title": "如何发布小组件",
+        "url": "https://x.im3x.cn"
+    }, {
+        "title": "其他测试的数据",
+        "url": "https://x.im3x.cn"
+    }
+    ]
+}
